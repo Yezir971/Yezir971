@@ -23,7 +23,7 @@ Actuellement en **Bachelor Développement Web** à Digital Campus Paris, je comb
 
 
 
-<p align="center">
+<p>
 <a href="https://github.com/Yezir971">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yezir971&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yezir971&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
